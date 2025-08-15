@@ -1,0 +1,3 @@
+latestlogPath=funny path
+bridgeBotIgn=funny ign
+webhookUrl=funny url
